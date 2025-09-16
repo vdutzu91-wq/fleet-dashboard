@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+openpyxl
+openrouteservice
+fpdf2
